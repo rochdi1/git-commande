@@ -27,3 +27,5 @@ les commandes suivante sert a revenir en arriere:
 1-git checkout ID_COMMIT
 2-git checkout ID_COMMIT NOM_FICJIER
 3-git checkout NOM_BRANCHE
+Remote
+1-git remote -v
