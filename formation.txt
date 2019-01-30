@@ -1,0 +1,7 @@
+LOG
+les Commandes suivante sert a avoir les log:
+1- git log
+2- git log -n 2
+3-git log --oneline
+4-git log -p <nom du fichier>
+5-git help log
