@@ -1,6 +1,8 @@
 https://fr.atlassian.com/git/tutorials/setting-up-a-repository
 https://www.youtube.com/watch?v=rgJh2zARV9o&index=5&list=PLNAMnK22kwLau4S6IpPYsFZTKq57sIXXi
 
+Remove git
+1-rm -rf .git
 
 INIT
 1-git init
