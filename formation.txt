@@ -1,7 +1,22 @@
+https://fr.atlassian.com/git/tutorials/setting-up-a-repository
+https://www.youtube.com/watch?v=rgJh2zARV9o&index=5&list=PLNAMnK22kwLau4S6IpPYsFZTKq57sIXXi
+
+
+INIT
+1-git init
+Configuration
+1-git config name="abdel"
+2-git config email="rochdi.abdou3@gmail.com"
 LOG
 les Commandes suivante sert a avoir les log:
-1- git log
-2- git log -n 2
-3-git log --oneline
-4-git log -p <nom du fichier>
+1- git log // Tout les log
+2- git log -n 2 // les derniers 2 log
+3-git log --oneline // les log on une ligne
+4-git log -p <nom du fichier> // les log dur le fichier ...
 5-git help log
+(git log --oneline -n 5)
+REVERT
+// il annuler les commits
+les commandes suivante sert a annuler un commits
+()
+1-git revert ID_COMMIT
